@@ -1,5 +1,4 @@
-### [🔗 Discord Link](https://discord.gg/Sh236kfpvK) - [🔨 Builder](https://github.com/g2uu/uuStealer/releases/tag/Builder) - [💎 Premium](https://discord.gg/Sh236kfpvK)
-
+### [🔗 Discord Link](https://discord.gg/Sh236kfpvK) 
 # uuStealer
 Official repos
 
